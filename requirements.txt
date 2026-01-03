@@ -1,2 +1,5 @@
 pyTelegramBotAPI
 requests
+rembg
+pillow
+onnxruntime
